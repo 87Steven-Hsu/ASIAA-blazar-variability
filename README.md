@@ -1,5 +1,5 @@
 # ASIAA-blazar-variability
-Some data and code to study blazar variation timescale and amplitude
+Some data and code to study blazar variation timescale and amplitude, and try to find their dependence with blazar source size, which is observed by VLBI
 
 Including OVRO monitering sources, and some sources from Sasha (a Russain Phd student)
 
