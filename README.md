@@ -7,6 +7,8 @@ We used SF to structure function (SF) to characterize the variability of the sou
 
 Uncertainty is also include in the model fit.
 
-AS the model fit reach its half of its maximum value at saturation, we define it as characteristic timescale.
+As the model fit reach its half of its maximum value at saturation, we define it as characteristic timescale.
 
 We define the SF amplitude at 1000 days, becuae timelag is sufficiently large such that the SF already saturates in a large number of sources, but not too large such that the SF amplitudes are dominated by measurement uncertainties due to the smaller number of flux density pairs.
+
+We used Matlab to do the analysis
