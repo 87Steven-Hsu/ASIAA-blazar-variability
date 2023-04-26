@@ -1,4 +1,4 @@
-# ASIAA-blazar-variability
+# ASIAA blazar variability
 
 This research topic began on 2020 Jyly, when I attended to the ASIAA Summer Student Program, and now it become one of my Master study topic.
 
